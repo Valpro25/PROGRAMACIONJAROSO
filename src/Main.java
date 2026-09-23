@@ -4,6 +4,7 @@ void main() {
     IO.println("hola mundo");
     IO.println("valentino");
     IO.println("cualquier cosa estoy loco uuuuuuuuu");
+    IO.println("pedazo de basurah inmundah");
 
 
 }
