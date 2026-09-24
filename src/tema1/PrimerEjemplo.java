@@ -4,7 +4,7 @@ public class PrimerEjemplo {
 
     static void main() {
 
-        String nombre = ("valentino");
+        String nombre = ("valentino wasaaaaaaaaaaaaaaa");
         IO.println(nombre);
 
     }
