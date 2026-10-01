@@ -5,16 +5,16 @@ public class ejerciciopropuesto1 {
         
         double precioSinIva = 40000.0;
         double precioConIva;
-        double primerDescuento;
-        double segundoDescuento;
+        double primerDescuento = 3500;
+        double segundoDescuento = 1500;
         double resultado;
 
         precioConIva = precioSinIva + (precioSinIva * 0.21);
-        primerDescuento = precioConIva - 3500;
-        segundoDescuento = precioConIva - 1500;
-        resultado = segundoDescuento;
+        //primerDescuento = precioConIva - 3500;
+       // segundoDescuento = primerDescuento - 1500;
+        resultado = precioConIva - primerDescuento - segundoDescuento;
 
-        IO.println("el precio sin el iva y con los descuentos" + resultado);
+        IO.println("el precio sin el iva y con los descuentos " + resultado);
 
     }
 }
