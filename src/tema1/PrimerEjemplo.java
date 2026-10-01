@@ -5,7 +5,7 @@ public class PrimerEjemplo {
     static void main() {
 
         String nombre = ("valentino wasaaaaaaaaaaaaaaa");
-        IO.println(nombre);
+        IO.println("tu putisimo nombre es " + nombre);
 
     }
 
