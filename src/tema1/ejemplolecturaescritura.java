@@ -8,6 +8,7 @@ public class ejemplolecturaescritura {
         System.out.printf("Precio %d %.2f € %n", precio);
         //aqui el %d identifica un un entero %n es para salto de linea  %f es para poner numero decimal con decimales %3f decimal de tres digitos despues de la coma %s para representar string
 
+        
     }
 
 }
