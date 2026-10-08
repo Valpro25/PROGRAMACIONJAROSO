@@ -5,11 +5,18 @@ Como promoción especial, si el cliente compra más de 5 unidades, la tienda apl
 
 El programa deberá calcular el importe inicial de la compra, el importe correspondiente al primer descuento, el precio después de aplicar dicho descuento, el descuento adicional de 2 € si corresponde, el importe del IVA y finalmente el precio total que deberá pagar el cliente.*/
 
+    import java.util.Scanner;
+
 public static void main (String args[]){
 
+    Scanner = teclado new scanner (System.in);
     double precioFinal;
     int unidadProducto;
     double precioUnidad;
 
+    final double descuento;
+    final double iva;
+
+    unidadProducto = teclado.nextInt();
 
 }
