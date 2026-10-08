@@ -16,7 +16,7 @@ public class ejemplolecturateclado {
         edad = Integer.parseInt (IO.readln("Tu edad es ")); //Cuando quieras pedir un entero se hace asi
         nombre = IO.readln("Y te llamas "); //Cuando quieras pedir un string se hace asi
         
-
+        //hoy tambien hemos visto el casting que es numeropequenio = (int) numerogrande
 
     }
 
